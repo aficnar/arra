@@ -9,9 +9,10 @@ As part of the project, we are developing an app that will be shown to Instagram
 These are some of the things I have worked on:
 
 * **main_analysis_redacted.ipynb** - The redacted version of the main analysis notebook (work in progress), which:
-  * connects to a SQL database on Heroku and fetches the relevant data, 
-  * constructs the weighted tag network for each user, and
+  * connects to a SQL database on Heroku, fetches the relevant data, and cleans it up
+  * constructs the weighted tag network for each user
   * generates potentially predictive features to be used in classification models
+  * applies several classifiers
     
 * **tag_model.ipynb** - A dynamical social network model that I developed that aims to capture social shifts by analyzing the Instagram data. 
   * Based on the tag information from Instagram pictures, we want to be able to generate a graph centered around some user, and design features that will be predictive of social shifts in his / her life.
