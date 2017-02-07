@@ -4,7 +4,7 @@ This is a project I'm working on in collaboration with the team from the Center 
 
 Our goal is to apply machine learning (including social network analysis, natural language processing and deep learning) to Instagram data to identify risks of substance abuse. 
 
-As part of the project, we are developing an app that will be shown to Instagram and Facebook users, in which they fill out a short survey on substance use. We will use the results of the survey, together with all the data Instagram offers (tags, likes, timestamps, picture content, etc.) to develop a predictive model.
+As part of the project, we are developing an app that will be shown to Instagram and Facebook users, in which they fill out a short survey on substance use in the last 12 months. We will use the results of the survey, together with all the data Instagram offers (tags, likes, timestamps, picture content, etc.) to develop a predictive model.
 
 These are some of the things I have worked on:
 
